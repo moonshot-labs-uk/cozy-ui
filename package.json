@@ -112,7 +112,7 @@
     "react-redux": "5.1.1",
     "react-styleguidist": "9.1.16",
     "react-test-renderer": "16.12.0",
-    "redux": "3.7.2",
+    "redux": "4.0.5",
     "semantic-release": "15.13.28",
     "style-loader": "0.23.1",
     "stylint": "1.5.9",
