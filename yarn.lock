@@ -1567,7 +1567,7 @@
     universal-user-agent "^2.0.0"
     url-template "^2.0.8"
 
-"@oskarer/enzyme-wait@^1.5.0":
+"@oskarer/enzyme-wait@1.5.0":
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/@oskarer/enzyme-wait/-/enzyme-wait-1.5.0.tgz#5a66da400f5c0c933a436841fff3382371575dc9"
   integrity sha512-8GFIO7+3tAoEMJVckrv6VY1FTcFqSgZe9PsTpArjBXL6VjjdDgSIeuXez/KZ/NvW1PCaaQDUyeboqIb3SSBGzw==
@@ -4401,7 +4401,7 @@ cozy-device-helper@^1.7.3:
   dependencies:
     lodash "4.17.15"
 
-cozy-doctypes@^1.69.0:
+cozy-doctypes@1.69.0:
   version "1.69.0"
   resolved "https://registry.yarnpkg.com/cozy-doctypes/-/cozy-doctypes-1.69.0.tgz#6718f016206f2afff75b9976d6f429e45f966bdc"
   integrity sha512-VsC/E1liapUuLXXAjd18o2b2pLEgO57KEh+L5qGVHjleoefaBzVH05HFBFpQ05BwyxbGl7XOAJt+jBGcQaco6g==
